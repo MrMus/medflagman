@@ -18,7 +18,7 @@
 ## Что реализовано
   
 <p>
-   Список продуктов по пользователю можно получить http://yourhostname/index.php?user=<user_id>
+   Список продуктов по пользователю можно получить http://yourhostname/index.php?user=user_id
    <br>
 </p>
 
